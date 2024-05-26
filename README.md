@@ -7,7 +7,7 @@ The project uses Python, leveraging libraries such as `numpy`, `pandas`, `matplo
 
 Data Loading
 
-The dataset `credit card complaints 3.csv` is loaded using `pandas`.
+The dataset is loaded using `pandas`.
 
 
 Columns in the Dataset
